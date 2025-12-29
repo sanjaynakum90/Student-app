@@ -52,7 +52,6 @@ This application allows users to add student details through a form and display 
 ├── index.html
 ├── package.json
 ├── vite.config.js
-<br/>
 └── README.md
 ```
 
