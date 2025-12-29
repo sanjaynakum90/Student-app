@@ -37,38 +37,23 @@ This application allows users to add student details through a form and display 
 ```bash
 09-react-student-app
 │
-<br/>
 ├── public
-<br/>
 │
-<br/>
 ├── src
-<br/>
 │   ├── assets
-<br/>
 │   ├── Components
-<br/>
 │   │   ├── StudentForm.jsx
-<br/>
 │   │   └── StudentList.jsx
-<br/>
 │   ├── App.css
-<br/>
 │   ├── App.jsx
-<br/>
 │   ├── index.css
-<br/>
 │   └── main.jsx
-<br/>
 │
 ├── index.html
-<br/>
 ├── package.json
-<br/>
 ├── vite.config.js
 <br/>
 └── README.md
-<br/>
 ```
 
 ## 🧑‍🎓 Application Overview
