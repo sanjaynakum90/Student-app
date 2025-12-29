@@ -79,34 +79,4 @@ This application allows users to add student details through a form and display 
 * ✅ Form validation
 * 📱 Better mobile responsiveness
 
----
 
-## 🤝 Contributing
-
-Contributions are welcome!
-Feel free to fork the repository and submit a pull request.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 👨‍💻 Author
-
-**Your Name**
-
-* GitHub: [your-github-profile](https://github.com/your-username)
-
----
-
-If you want, I can also:
-
-* Add **badges** (React, Vite, License)
-* Write a **short description version**
-* Customize it for **portfolio projects**
-* Add **deployment instructions (Netlify/Vercel)**
-
-Just tell me 👍
